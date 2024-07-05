@@ -1,5 +1,4 @@
-Project Name: 
-(Replace with your project name)
+Project Name: HavaHavai-Airport
 
 Description:
 This Node.js application serves as a simple API to retrieve airport information based on IATA code. 
